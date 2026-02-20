@@ -124,7 +124,7 @@ export default function Home() {
             }}>
               {/* Ganti src ini dengan foto asli Auliya */}
               <img 
-                src="./public/foto.jpeg" 
+                src="../public/foto.jpeg" 
                 alt="Auliya Nailul Muna" 
                 style={{width: "100%", height: "100%", objectFit: "cover"}}
               />

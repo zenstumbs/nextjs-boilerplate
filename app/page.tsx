@@ -45,7 +45,7 @@ export default function Home() {
             background: "#ede9fe", width: "50px", height: "50px", 
             borderRadius: "12px", display: "flex", alignItems: "center", justifyContent: "center"
           }}>
-            AN
+            Auliya Nailul Muna
           </div>
           <div style={{color: "#6b7280", fontSize: "14px", display: "flex", gap: "20px"}}>
             <span style={{cursor:"pointer"}}>About</span>
